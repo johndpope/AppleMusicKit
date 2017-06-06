@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AppleMusicKit_Tests' do
+  pod 'AppleMusicKit', :path => '../'
+  
+  
+end
