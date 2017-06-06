@@ -1,0 +1,6 @@
+framework module AppleMusicKit {
+  umbrella header "AppleMusicKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

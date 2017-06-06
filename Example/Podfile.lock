@@ -1,0 +1,16 @@
+PODS:
+  - AppleMusicKit (0.1.0)
+
+DEPENDENCIES:
+  - AppleMusicKit (from `../`)
+
+EXTERNAL SOURCES:
+  AppleMusicKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AppleMusicKit: b7e7a15b84cdeea7b974faeea6ba764bdf10f52b
+
+PODFILE CHECKSUM: 4be0f994beda2703a3ea12bc27a1658eee831287
+
+COCOAPODS: 1.2.1
