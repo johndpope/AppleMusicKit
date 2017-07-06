@@ -1,5 +1,12 @@
 # AppleMusicKit
 
+[![Twitter: @carambalabsEng](https://img.shields.io/badge/contact-@carambalabsEng-blue.svg?style=flat)](https://twitter.com/carambalabsEng)
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/AppleMusicKit.svg)](https://img.shields.io/cocoapods/v/AppleMusicKit.svg)
+[![Language: Swift](https://img.shields.io/badge/lang-Swift-yellow.svg?style=flat)](https://developer.apple.com/swift/)
+[![Language: Swift](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](http://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.org/carambalabs/AppleMusicKit.svg)](https://travis-ci.org/carambalabs/AppleMusicKit)
+[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 ## Contribute
 
 - Git clone the repository `git clone git@github.com:carambalabs/AppleMusicKit.git`
